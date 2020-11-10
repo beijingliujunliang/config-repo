@@ -3,5 +3,7 @@ info:
 
 name: Paul
 words: 'God bless you and me !'
-
+#对称加密
 food: '{cipher}326433bb02af1991beecf1b29f9d1d224d4f8241722e8a553cfa7077905bfdfc'
+#非对称加密
+delicious: '{cipher}AQCDyLZM5hOVFL+zhqvt67tVWQUXUM86mOYpmesA0Cev8vLKpLIzxSmTK1w9yxtYAY+jfpTPxmD3cYV4uTIB1+NHG15KSovxOdeAPNbce/W0dIMiRc2/vdfZ5mU2a8DHXI/bYWCEO6v2qJ08E28ToDI/QnpqCGx3ifmWrCblu4dqkQV9lpU+aL+wfgUNZ5Tfr0JmOMz9Els8r6iK1r+HXZ4QNI5ln7IEpkyr3jd2nt6E8gYMPigOt/6l6dkdl4Gz9Sc7thpy+GzcMu1UCXLu95hrz3fr2iC1tXkfl4C9WG1PGkxpyBtrkO8xjXiJ0rJaV3y68PlNmiFGEIU1eTTny+sylCrENgQbc9iTPEYaflrl9Gvt2mo3JgPvLpz4/KXpMsY='
