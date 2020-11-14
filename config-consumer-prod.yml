@@ -2,7 +2,7 @@ info:
   profile: prod
 
 name: Paul
-words: 'God bless you and me !'
+words: 'God bless you and me ! hahahahaha!'
 #对称加密
 # food: '{cipher}326433bb02af1991beecf1b29f9d1d224d4f8241722e8a553cfa7077905bfdfc'
 food: '326433bb02af1991beecf1b29f9d1d224d4f8241722e8a553cfa7077905bfdfc'
